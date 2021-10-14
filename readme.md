@@ -5,5 +5,9 @@
   - [x] sep
 - [x] literals
 - [x] datatypes
-  - [x] int     (last page - 49)
-  - [ ] float
+  - [x] int     
+  - [x] float
+  - [x] str
+  - [ ] bool
+  
+last page: 54 / 590
