@@ -8,6 +8,11 @@
   - [x] int     
   - [x] float
   - [x] str
-  - [ ] bool
+  - [x] bool
+- [x] operators
+  - [x] int, float, str, bool
+  - [x] precedence
+- [x] variables
+
   
-last page: 54 / 590
+last page: 76 / 590
