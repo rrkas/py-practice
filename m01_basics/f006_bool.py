@@ -3,3 +3,5 @@ print(a)
 
 b = 5 > -8
 print(b)
+
+# comparision operators: == != > >= < <=

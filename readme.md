@@ -17,5 +17,7 @@
 - [x] variables
 - [x] comments
 - [x] input()
+- [ ] conditions
+  - [x] if-elif-else
 
-last page: 88 / 590
+last page: 108 / 590
