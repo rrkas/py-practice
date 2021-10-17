@@ -27,7 +27,8 @@
 - [x] conditions
   - [x] if-elif-else
 - [ ] loops
-  - [ ] while
+  - [x] while
+    - [x] while-else
   - [ ] for(-each)
 
-last page: 125 / 590
+last page: 130 / 590
