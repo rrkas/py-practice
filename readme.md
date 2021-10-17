@@ -17,7 +17,17 @@
 - [x] variables
 - [x] comments
 - [x] input()
-- [ ] conditions
+- [ ] useful inbuilt functions
+  - [x] min
+  - [x] max
+  - [x] abs
+  - [x] len
+  - [ ] map
+  - [ ] filter
+- [x] conditions
   - [x] if-elif-else
+- [ ] loops
+  - [ ] while
+  - [ ] for(-each)
 
-last page: 108 / 590
+last page: 125 / 590
