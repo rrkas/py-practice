@@ -22,6 +22,7 @@
   - [x] max
   - [x] abs
   - [x] len
+  - [x] range
   - [ ] map
   - [ ] filter
 - [x] conditions
@@ -29,6 +30,7 @@
 - [ ] loops
   - [x] while
     - [x] while-else
-  - [ ] for(-each)
+  - [x] for(-each)
+    - [ ] for(-each)-else
 
 last page: 130 / 590
