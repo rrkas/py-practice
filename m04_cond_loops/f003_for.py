@@ -19,3 +19,13 @@ for i in range(len(l)):
     print(f"{l[i]}**2 = {l[i]**2}")
 
 print("======= for else ======")
+
+for i in range(len(l)):
+    print(f"{l[i]}**2 = {l[i]**2}")
+else:
+    print("for-else")
+
+for i in range(0):
+    pass
+else:
+    print("for-else-range-0")

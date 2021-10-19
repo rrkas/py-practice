@@ -25,12 +25,20 @@
   - [x] range
   - [ ] map
   - [ ] filter
+  - [ ] exit
+- [x] useful keywords
+  - [x] and
+  - [x] or
+  - [x] not
+  - [x] in
 - [x] conditions
   - [x] if-elif-else
 - [ ] loops
   - [x] while
     - [x] while-else
   - [x] for(-each)
-    - [ ] for(-each)-else
+    - [x] for(-each)-else
+  - [ ] break
+  - [ ] continue
 
-last page: 130 / 590
+last page: 153 / 590

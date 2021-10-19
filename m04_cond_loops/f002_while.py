@@ -16,3 +16,10 @@ else:
 if i >= 10:
     pass
     print("pass:", i)
+
+# while-else if while doesnt execute at all
+
+while False:
+    pass
+else:
+    print("while-else-false")
