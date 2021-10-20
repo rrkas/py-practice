@@ -9,11 +9,22 @@
   - [x] float
   - [x] str
     - [x] string formatting (string interpolation)
+      - [x] "%s" % (var, )
+      - [x] "{}".format(var,)
+      - [x] f"{var}"
   - [x] bool
+  - [x] list
+    - [x] list operations
 - [x] operators
   - [x] int, float, str, bool
   - [x] precedence
   - [x] shortcuts
+  - [x] bitwise
+    - [x] and (&)
+    - [x] or (|)
+    - [x] negation (~)
+    - [x] xor (^)
+    - [x] shift (left, right)
 - [x] variables
 - [x] comments
 - [x] input()
@@ -38,7 +49,15 @@
     - [x] while-else
   - [x] for(-each)
     - [x] for(-each)-else
-  - [ ] break
-  - [ ] continue
+  - [x] break
+  - [x] continue
 
-last page: 153 / 590
+last page: 163 / 590
+
+## Common Notes
+
+ - [] -> list, index, keys, slicing
+ - () -> function, tuples
+ - {} -> dict, string interpolation
+
+![Operator Precedence](pics/operator-precedence.png)
