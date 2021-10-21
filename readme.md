@@ -13,8 +13,13 @@
       - [x] "{}".format(var,)
       - [x] f"{var}"
   - [x] bool
-  - [x] list
-    - [x] list operations
+  - [ ] list
+    - [x] operations/ methods
+    - [x] indexing
+    - [ ] slicing
+  - [ ] dict
+  - [ ] tuple
+  - [ ] set
 - [x] operators
   - [x] int, float, str, bool
   - [x] precedence
@@ -52,12 +57,15 @@
   - [x] break
   - [x] continue
 
-last page: 163 / 590
+last page: 169 / 590
 
 ## Common Notes
 
  - [] -> list, index, keys, slicing
  - () -> function, tuples
  - {} -> dict, string interpolation
+
+ - Mutable datatypes (editable) -> list, dict
+ - Immutable datatypes (non-editable) -> tuple, str
 
 ![Operator Precedence](pics/operator-precedence.png)
