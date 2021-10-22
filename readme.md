@@ -49,13 +49,14 @@
   - [x] in
 - [x] conditions
   - [x] if-elif-else
-- [ ] loops
+- [x] loops
   - [x] while
     - [x] while-else
   - [x] for(-each)
     - [x] for(-each)-else
   - [x] break
   - [x] continue
+- [ ] functions
 
 last page: 169 / 590
 
@@ -64,8 +65,11 @@ last page: 169 / 590
  - [] -> list, index, keys, slicing
  - () -> function, tuples
  - {} -> dict, string interpolation
-
+---
  - Mutable datatypes (editable) -> list, dict
  - Immutable datatypes (non-editable) -> tuple, str
+---
+ - function : piece of code which can be reused; ex: func(value)
+ - method   : same as function, but is a part of class; ex: obj.method(value)
 
 ![Operator Precedence](pics/operator-precedence.png)
