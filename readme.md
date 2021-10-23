@@ -16,7 +16,10 @@
   - [ ] list
     - [x] operations/ methods
     - [x] indexing
-    - [ ] slicing
+    - [x] slicing
+    - [x] 2-d lists
+      - [x] jagged matrix
+      - [x] flatten a matrix
   - [ ] dict
   - [ ] tuple
   - [ ] set
@@ -54,11 +57,12 @@
     - [x] while-else
   - [x] for(-each)
     - [x] for(-each)-else
+    - [x] list comprehension/ inline for
   - [x] break
   - [x] continue
 - [ ] functions
 
-last page: 169 / 590
+last page: 208 / 590
 
 ## Common Notes
 
