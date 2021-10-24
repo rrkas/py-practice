@@ -36,15 +36,15 @@
 - [x] variables
 - [x] comments
 - [x] input()
-- [ ] useful inbuilt functions
+- [x] useful inbuilt functions
   - [x] min
   - [x] max
   - [x] abs
   - [x] len
   - [x] range
-  - [ ] map
-  - [ ] filter
-  - [ ] exit
+  - [x] map
+  - [x] filter
+  - [x] exit
 - [x] useful keywords
   - [x] and
   - [x] or
@@ -61,8 +61,15 @@
   - [x] break
   - [x] continue
 - [ ] functions
+  - [x] defining and calling
+  - [x] args
+    - [x] simple
+    - [x] default
+    - [x] variable args
+    - [x] variable keyword args
+  - [ ] lambda
 
-last page: 208 / 590
+last page: 245 / 590
 
 ## Common Notes
 
@@ -75,5 +82,9 @@ last page: 208 / 590
 ---
  - function : piece of code which can be reused; ex: func(value)
  - method   : same as function, but is a part of class; ex: obj.method(value)
+---
+ - **declare** : function without body, informing compiler about existence of function
+ - **define** : function with body, actual implementation and logic
+ - **function call** : calling the function to do the specific task.
 
 ![Operator Precedence](pics/operator-precedence.png)
