@@ -58,6 +58,7 @@
   - [x] for(-each)
     - [x] for(-each)-else
     - [x] list comprehension/ inline for
+    - [x] enumerate
   - [x] break
   - [x] continue
 - [ ] functions
@@ -67,6 +68,9 @@
     - [x] default
     - [x] variable args
     - [x] variable keyword args
+  - [x] scope
+  - [x] global
+  - [ ] call by value/ call by reference
   - [ ] lambda
 
 last page: 245 / 590
