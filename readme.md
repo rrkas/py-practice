@@ -73,7 +73,7 @@
   - [ ] call by value/ call by reference
   - [ ] lambda
 
-last page: 245 / 590
+last page: 253 / 590
 
 ## Common Notes
 
