@@ -1,4 +1,4 @@
-'''
+"""
 
 input : n
 
@@ -18,6 +18,9 @@ Sample output:
 1 2 3 4
 1 2 3 4 5
 
-'''
-
-# write code here
+"""
+n = int(input())
+for i in range(n):
+    for j in range(i + 1):
+        print(j + 1, end=" ")
+    print()

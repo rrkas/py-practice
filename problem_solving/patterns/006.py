@@ -1,4 +1,4 @@
-'''
+"""
 
 input : n
 
@@ -12,6 +12,6 @@ sample output:
 123454321
 
 
-'''
+"""
 
 # write code here

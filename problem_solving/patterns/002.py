@@ -1,4 +1,4 @@
-'''
+"""
 
 input : n
 
@@ -18,6 +18,20 @@ Sample output:
 5 4 3 2
 5 4 3 2 1
 
-'''
+"""
 
-# write code here
+n = int(input())
+
+print()
+# method 1
+for i in range(n):
+    for j in range(n, n - i - 1, -1):
+        print(j, end=" ")
+    print()
+print()
+
+# method 2
+for i in range(n):
+    for j in range(i + 1):
+        print(n - j, end=" ")
+    print()

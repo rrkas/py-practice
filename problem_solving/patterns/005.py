@@ -1,4 +1,4 @@
-'''
+"""
 
 input : n
 
@@ -12,6 +12,14 @@ Sample output:
 21 22 23 24 25
 
 
-'''
+"""
 
-# write code here
+n = int(input())
+last_num = n ** 2
+dig_count = len(str(last_num))
+c = 1
+for i in range(n):
+    for j in range(n):
+        print(str(c).zfill(dig_count), end=" ")
+        c += 1
+    print()
