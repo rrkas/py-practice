@@ -20,9 +20,9 @@
     - [x] 2-d lists
       - [x] jagged matrix
       - [x] flatten a matrix
-  - [ ] dict
-  - [ ] tuple
+  - [x] tuple
   - [ ] set
+  - [ ] dict
 - [x] operators
   - [x] int, float, str, bool
   - [x] precedence
@@ -61,7 +61,7 @@
     - [x] enumerate
   - [x] break
   - [x] continue
-- [ ] functions
+- [x] functions
   - [x] defining and calling
   - [x] args
     - [x] simple
@@ -70,8 +70,8 @@
     - [x] variable keyword args
   - [x] scope
   - [x] global
-  - [ ] call by value/ call by reference
-  - [ ] lambda
+  - [x] call by value/ call by reference
+  - [x] lambda
 
 last page: 265 / 590
 
