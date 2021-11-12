@@ -13,16 +13,16 @@
       - [x] "{}".format(var,)
       - [x] f"{var}"
   - [x] bool
-  - [ ] list
+  - [x] list []
     - [x] operations/ methods
     - [x] indexing
     - [x] slicing
     - [x] 2-d lists
       - [x] jagged matrix
       - [x] flatten a matrix
-  - [x] tuple
-  - [ ] set
-  - [ ] dict
+  - [x] tuple ()
+  - [x] set   {}
+  - [x] dict  {k:v}
 - [x] operators
   - [x] int, float, str, bool
   - [x] precedence
@@ -45,6 +45,8 @@
   - [x] map
   - [x] filter
   - [x] exit
+  - [x] zip
+  - [x] sorted
 - [x] useful keywords
   - [x] and
   - [x] or
@@ -73,7 +75,7 @@
   - [x] call by value/ call by reference
   - [x] lambda
 
-last page: 265 / 590
+last page: 290 / 590
 
 ## Common Notes
 
