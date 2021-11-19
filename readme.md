@@ -5,7 +5,8 @@
   - [x] sep
 - [x] literals
 - [x] datatypes
-  - [x] int     
+  - [x] int
+  - [x] complex
   - [x] float
   - [x] str
     - [x] string formatting (string interpolation)
@@ -47,6 +48,7 @@
   - [x] exit
   - [x] zip
   - [x] sorted
+  - [x] dir
 - [x] useful keywords
   - [x] and
   - [x] or
@@ -73,9 +75,23 @@
   - [x] scope
   - [x] global
   - [x] call by value/ call by reference
-  - [x] lambda
+  - [x] lambda (anonymous function)
+  - [x] recursion
+- [ ] module
+  - [x] sample modules
+    - [x] math
+    - [x] random
+    - [x] platform
+  - [ ] parts of module
+    - [x] `__name__`
+    - [x] `__file__`
+    - [x] circular imports
+      - [x] solution: conditional import
+  - [ ] private members
+  - [ ] documentation
+- [ ] package
 
-last page: 290 / 590
+last page: 311 / 590
 
 ## Common Notes
 
