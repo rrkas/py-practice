@@ -77,21 +77,24 @@
   - [x] call by value/ call by reference
   - [x] lambda (anonymous function)
   - [x] recursion
-- [ ] module
+- [x] module
   - [x] sample modules
     - [x] math
     - [x] random
     - [x] platform
-  - [ ] parts of module
+  - [x] parts of module
     - [x] `__name__`
     - [x] `__file__`
     - [x] circular imports
       - [x] solution: conditional import
-  - [ ] private members
-  - [ ] documentation
-- [ ] package
+      - [x] solution: resolve dependency
+  - [x] private members
+  - [x] documentation
+- [x] package
+  - [x] `__init__.py`
+  - [x] subpackage
 
-last page: 311 / 590
+last page: 345 / 590
 
 ## Common Notes
 
